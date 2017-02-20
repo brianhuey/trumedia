@@ -1,7 +1,9 @@
 #An iterative model for quantifying batter “approach”
 
 2017 TruMedia Baseball Hackathon Submission
+
 S. Brian Huey
+
 sbhuey@gmail.com
 
 ###Requirements:
