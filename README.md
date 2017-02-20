@@ -12,6 +12,7 @@ sbhuey@gmail.com
 - 2015 and 2016 TruMedia Datasets
 
 ###Usage:
+- Place the 2015 and 2016 TruMedia datasets in /data
 - To reproduce the model, run `processing.py` in Python 2.7.
 - To analyze the data produced by the model, run `run_console.py` within a console
 like IPython.
